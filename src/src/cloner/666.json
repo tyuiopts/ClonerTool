@@ -1,0 +1,3452 @@
+{
+    "name": "Eàst Empire.",
+    "verificationLevel": "MEDIUM",
+    "explicitContentFilter": "DISABLED",
+    "defaultMessageNotifications": "ONLY_MENTIONS",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "مسابقة المليار كردت",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "☬・〡مسابقة-الصور",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "مسابقة المليار كردت",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124096"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "☬・〡المشاركين",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "مسابقة المليار كردت",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957125120"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "☬・〡المشاركه",
+                        "nsfw": false,
+                        "rateLimitPerUser": 21600,
+                        "parent": "مسابقة المليار كردت",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Security",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "noyàn-security",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Security",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "noyan-log",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Security",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "msg45",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Security",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377958173760"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "دعاء",
+                        "nsfw": false,
+                        "rateLimitPerUser": 300,
+                        "parent": "Security",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "ملايين | Gifts",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "274877909056"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "حرق-ملايين",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "ملايين | Gifts",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124160"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "100m",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "ملايين | Gifts",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124160"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "150m",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "ملايين | Gifts",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124160"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "100m",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "ملايين | Gifts",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124160"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "500m",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "ملايين | Gifts",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124160"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "2نيترو-قيمنق",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "ملايين | Gifts",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957125120"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "توزيع-ملايين",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "ملايين | Gifts",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957125120"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "عروض-اليوم",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "ملايين | Gifts",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957125120"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "صوت-و-اربح",
+                        "nsfw": false,
+                        "rateLimitPerUser": 21600,
+                        "parent": "ملايين | Gifts",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "32768",
+                                "deny": "377957125120"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "توزيع-ملايين",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "ملايين | Gifts",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957125120"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "توزيع-ملايين",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "ملايين | Gifts",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957125120"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "⚚ - Eàst | System",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "new-fadmin",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst | System",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1051648"
+                            },
+                            {
+                                "roleName": "⚔︎",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "admins",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst | System",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957125120"
+                            },
+                            {
+                                "roleName": "⚔︎",
+                                "allow": "3072",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "perm-ban",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst | System",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1051648"
+                            },
+                            {
+                                "roleName": "⚔︎",
+                                "allow": "3072",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ban-reason",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst | System",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⚔︎",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "' Eàst Mithycal",
+                                "allow": "3072",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Eàst | 𝗦hips",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "3072"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "تحديثات・شيبات",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Eàst | 𝗦hips",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⚔︎",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "⁖ Server Manager's",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "EastShips.",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957125120"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "شات・شيبات",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Eàst | 𝗦hips",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "EastShips.",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "⚔︎",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "تسجيلات・الشيبات",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Eàst | 𝗦hips",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⚔︎",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "EastShips.",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "شرح・المخفيات",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Eàst | 𝗦hips",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957125120"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "EastShips.",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "⚔︎",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "⚚ - Eàst | Ads.",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "805448784"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "☆・〡هدايا・الاعلانـات",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst | Ads.",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "378762570832"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            },
+                            {
+                                "roleName": "Black list",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "☆・〡اسـعـأر・الاعـلانـات",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst | Ads.",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "65536",
+                                "deny": "378762569808"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "⚚ - Eàst  | Gate .",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "805447760"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄔ・〡القـوانـيـن",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst  | Gate .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124096"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄔ・〡الـتـحـديـثـات",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst  | Gate .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "378762569808"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄔ・〡الـدآعمين",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst  | Gate .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "71454029183057"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            },
+                            {
+                                "roleName": "Black list",
+                                "allow": "0",
+                                "deny": "65536"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄔ・〡الـرولآت",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst  | Gate .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "378762569808"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            },
+                            {
+                                "roleName": "Black list",
+                                "allow": "65536",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄔ・〡فروعنا",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst  | Gate .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "378762569808"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            },
+                            {
+                                "roleName": "Black list",
+                                "allow": "0",
+                                "deny": "66560"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "كيف-تجيب-رابطك-الخاص-بيك",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst  | Gate .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "378762569808"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "⚚ - Eàst | Apply .",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "805445712"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ℼ・〡إداره・ايـسـت",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst | Apply .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "378762569808"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "❆・رواتب・الاداره",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst | Apply .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "378762569808"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "⁖ Staff Manager's",
+                                "allow": "410116561567569",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "⁖ Event's Manager's",
+                                "allow": "3072",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "closed-3805",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst | Apply .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "⁖ Staff Manager's",
+                                "allow": "3072",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "⚚ - Eàst | Gift .",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄨ・〡الـتــذكــرة",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst | Gift .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124096"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "✎・〡التفاعل",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst | Gift .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "378762562576"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            },
+                            {
+                                "roleName": "Black list",
+                                "allow": "0",
+                                "deny": "66560"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄨ・〡آرائـــكــم",
+                        "nsfw": false,
+                        "rateLimitPerUser": 7200,
+                        "parent": "⚚ - Eàst | Gift .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "⚚ - Eàst | Waves .",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "805437456"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "✎・〡الترحيب",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst | Waves .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "378762561552"
+                            },
+                            {
+                                "roleName": "Black list",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "✎・〡هدايا・التفاعل",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst | Waves .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "⁖ Chat Manager's",
+                                "allow": "2048",
+                                "deny": "131072"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "563328715982864"
+                            },
+                            {
+                                "roleName": "' Eàst Mithycal",
+                                "allow": "0",
+                                "deny": "268435472"
+                            },
+                            {
+                                "roleName": "Black list",
+                                "allow": "0",
+                                "deny": "66560"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "✎・〡الـشـات",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst | Waves .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "562950758891600"
+                            },
+                            {
+                                "roleName": "∷ Chat Team Manager's",
+                                "allow": "137439259712",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "⁖ Chat Manager's",
+                                "allow": "137439251520",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            },
+                            {
+                                "roleName": "› Pic.",
+                                "allow": "33792",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Black list",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "✎・〡الأوامر",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst | Waves .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "2147517440",
+                                "deny": "805437456"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            },
+                            {
+                                "roleName": "Black list",
+                                "allow": "0",
+                                "deny": "634403982670929"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "✎・〡الألوان",
+                        "nsfw": false,
+                        "rateLimitPerUser": 7200,
+                        "parent": "⚚ - Eàst | Waves .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "805486672"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            },
+                            {
+                                "roleName": "Black list",
+                                "allow": "0",
+                                "deny": "66560"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "✎・〡العاب",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst | Waves .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "805437456"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            },
+                            {
+                                "roleName": "Black list",
+                                "allow": "0",
+                                "deny": "66560"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "✎・〡ميديا",
+                        "nsfw": false,
+                        "rateLimitPerUser": 3600,
+                        "parent": "⚚ - Eàst | Waves .",
+                        "topic": "ممنوع إرسال الرسائل فقط الصور\nإرسال صور مُخلة = ميوت 1 يوم ،  مسح الصورة وممكن تصل للباند\nإرسال صور من بنترست = مسح للصورة",
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "32768",
+                                "deny": "805437456"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            },
+                            {
+                                "roleName": "Black list",
+                                "allow": "0",
+                                "deny": "65536"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Ladies",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "Ladies",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "Ladies",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "✥ › Ladies.",
+                                "allow": "1049600",
+                                "deny": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ladies-chat",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ladies",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "✥ › Ladies.",
+                                "allow": "1049600",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "⚚ - Eàst | Clans .",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "✎・〡اللفلآت",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst | Clans .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "378762562576"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄔ・〡الــكـلانـات",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst | Clans .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957125120"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "2112"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "⚚ - Eàst | Temporary .",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🎤 Creator Channel",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "⚚ - Eàst | Temporary .",
+                        "permissions": [
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "مسابقة・صوتية",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚚ - Eàst | Temporary .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957125120"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "o4_9",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "⚚ - Eàst | Temporary .",
+                        "permissions": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "mohamed_jj",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "⚚ - Eàst | Temporary .",
+                        "permissions": []
+                    }
+                ]
+            },
+            {
+                "name": "⚚ - Eàst | Voice",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "East in 🪐",
+                        "bitrate": 64000,
+                        "userLimit": 30,
+                        "parent": "⚚ - Eàst | Voice",
+                        "permissions": [
+                            {
+                                "roleName": "East Staff",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "- Admin.",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "EastShips.",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377958173696"
+                            },
+                            {
+                                "roleName": "' Eàst Mithycal",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            },
+                            {
+                                "roleName": "Eàst Owner's",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Full Access",
+                                "allow": "1049600",
+                                "deny": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "Blue",
+                        "bitrate": 64000,
+                        "userLimit": 64,
+                        "parent": "⚚ - Eàst | Voice",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377958173696"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "Once",
+                        "bitrate": 64000,
+                        "userLimit": 2,
+                        "parent": "⚚ - Eàst | Voice",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1049600",
+                                "deny": "377957124096"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "Edge",
+                        "bitrate": 64000,
+                        "userLimit": 25,
+                        "parent": "⚚ - Eàst | Voice",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": "0",
+                                "deny": "103079217216"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "Factual",
+                        "bitrate": 64000,
+                        "userLimit": 40,
+                        "parent": "⚚ - Eàst | Voice",
+                        "permissions": []
+                    }
+                ]
+            },
+            {
+                "name": "East Manager's",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ],
+                "children": []
+            },
+            {
+                "name": "⚚ - Eàst | Owners",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ],
+                "children": []
+            },
+            {
+                "name": "Eàst | Staff",
+                "permissions": [
+                    {
+                        "roleName": "⚔︎",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "973048529735488"
+                    }
+                ],
+                "children": []
+            },
+            {
+                "name": "⚚ - Eàst | Ticket.",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": []
+            },
+            {
+                "name": "east | support",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": []
+            },
+            {
+                "name": "#- Eàst log's",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "805448784"
+                    }
+                ],
+                "children": []
+            },
+            {
+                "name": "تكت 1",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ],
+                "children": []
+            },
+            {
+                "name": "تكت 2",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ],
+                "children": []
+            },
+            {
+                "name": "تكت 3",
+                "permissions": [],
+                "children": []
+            }
+        ],
+        "others": [
+            {
+                "type": "GUILD_VOICE",
+                "name": ".gg/est",
+                "bitrate": 64000,
+                "userLimit": 0,
+                "parent": null,
+                "permissions": [
+                    {
+                        "roleName": "⚔︎",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ]
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "هدايا-ايست",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "377957124160"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "300m",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "377957124096"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_VOICE",
+                "name": "سواليف",
+                "bitrate": 64000,
+                "userLimit": 0,
+                "parent": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ]
+            },
+            {
+                "type": "GUILD_VOICE",
+                "name": "عشوائيات",
+                "bitrate": 64000,
+                "userLimit": 0,
+                "parent": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ]
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "200m",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "377957124096"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_VOICE",
+                "name": "فحص",
+                "bitrate": 64000,
+                "userLimit": 0,
+                "parent": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ]
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "ㄨ・〡التسليمات",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "377957124160"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "صلي-على-النبي-ﷺ",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "≻・النقـــاط",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "377958173696"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "𝙸nvites",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "377957125120"
+                    },
+                    {
+                        "roleName": "Eàst Owner's",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "رسائل-فعاليات",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "V N A",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "532850859641865",
+            "mentionable": false,
+            "position": 163,
+            "isEveryone": false
+        },
+        {
+            "name": "Congress ❄️",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 162,
+            "isEveryone": false
+        },
+        {
+            "name": "'Trust",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 161,
+            "isEveryone": false
+        },
+        {
+            "name": "system.",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "1377275789773833",
+            "mentionable": false,
+            "position": 160,
+            "isEveryone": false
+        },
+        {
+            "name": "Adminstrator",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 159,
+            "isEveryone": false
+        },
+        {
+            "name": "ــــــــــــــــــــــــــــــــــــــــــ",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 158,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst OwnerShips :",
+            "color": "#72551f",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 157,
+            "isEveryone": false
+        },
+        {
+            "name": "' East Co Owner :",
+            "color": "#020202",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 156,
+            "isEveryone": false
+        },
+        {
+            "name": "ــــــــــــــــــــــــــــــــــــــــــ",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 155,
+            "isEveryone": false
+        },
+        {
+            "name": "' East Bosses :",
+            "color": "#ec0351",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 154,
+            "isEveryone": false
+        },
+        {
+            "name": "' East Founder :",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 153,
+            "isEveryone": false
+        },
+        {
+            "name": "' East Co Founder :",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 152,
+            "isEveryone": false
+        },
+        {
+            "name": "' East Trusted :",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 151,
+            "isEveryone": false
+        },
+        {
+            "name": "' East Kings :",
+            "color": "#040505",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 150,
+            "isEveryone": false
+        },
+        {
+            "name": "' East Princesses :",
+            "color": "#d869af",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 149,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Vanguard :",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 148,
+            "isEveryone": false
+        },
+        {
+            "name": "' East Emperor :",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 147,
+            "isEveryone": false
+        },
+        {
+            "name": "' East Muder :",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 146,
+            "isEveryone": false
+        },
+        {
+            "name": "ــــــــــــــــــــــــــــــــــــــــــ",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 145,
+            "isEveryone": false
+        },
+        {
+            "name": "BAN",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 144,
+            "isEveryone": false
+        },
+        {
+            "name": "⚔︎",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "1110681198736",
+            "mentionable": false,
+            "position": 143,
+            "isEveryone": false
+        },
+        {
+            "name": "ــــــــــــــــــــــــــــــــــــــــــ",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 142,
+            "isEveryone": false
+        },
+        {
+            "name": "Staff of The week",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 141,
+            "isEveryone": false
+        },
+        {
+            "name": "Top Staff",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 140,
+            "isEveryone": false
+        },
+        {
+            "name": "ــــــــــــــــــــــــــــــــــــــــــ",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 139,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Merchant :",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 138,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Celestial :",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 137,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Congress :",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 136,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Trustee :",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 135,
+            "isEveryone": false
+        },
+        {
+            "name": "' East President :",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 134,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Synergy :",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 133,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Strategist :",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 132,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Queen :",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 131,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Sentry :",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 130,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Mightly :",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 129,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Inspector :",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 128,
+            "isEveryone": false
+        },
+        {
+            "name": "EastShips.",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 127,
+            "isEveryone": false
+        },
+        {
+            "name": "High Access",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "1099675467968",
+            "mentionable": false,
+            "position": 126,
+            "isEveryone": false
+        },
+        {
+            "name": "ـــــــــــــــــــــــــــــــــــــــــــــــ",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 125,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Genesis",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 124,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Advisor",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 123,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Steward",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 122,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Emperor",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 121,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Leader",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 120,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Strategist",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 119,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Sentinel",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 118,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Executive",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 117,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Manager",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 116,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Director",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 115,
+            "isEveryone": false
+        },
+        {
+            "name": "East HighOwners",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 114,
+            "isEveryone": false
+        },
+        {
+            "name": "Murder",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "163577856",
+            "mentionable": false,
+            "position": 113,
+            "isEveryone": false
+        },
+        {
+            "name": "ـــــــــــــــــــــــــــــــــــــــــــــــ",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 112,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Triumph",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "67108864",
+            "mentionable": false,
+            "position": 111,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Mithycal",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "1099725547520",
+            "mentionable": false,
+            "position": 110,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Oracle",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 109,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Supervisor",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 108,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Paragon",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 107,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Solstice",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 106,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Phoenix",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 105,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Luminary",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 104,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Catalyst",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 103,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Utopia",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 102,
+            "isEveryone": false
+        },
+        {
+            "name": "' Eàst Sovereign",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 101,
+            "isEveryone": false
+        },
+        {
+            "name": "Eàst Owner's",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 100,
+            "isEveryone": false
+        },
+        {
+            "name": "Full Access",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 99,
+            "isEveryone": false
+        },
+        {
+            "name": "ــــــــــــــــــــــــــــــــــــــــــ",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 98,
+            "isEveryone": false
+        },
+        {
+            "name": "' Promoter",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 97,
+            "isEveryone": false
+        },
+        {
+            "name": "' Operator",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 96,
+            "isEveryone": false
+        },
+        {
+            "name": "' Throne",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 95,
+            "isEveryone": false
+        },
+        {
+            "name": "' Right Hand",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 94,
+            "isEveryone": false
+        },
+        {
+            "name": "' Head",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 93,
+            "isEveryone": false
+        },
+        {
+            "name": "' Chief",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 92,
+            "isEveryone": false
+        },
+        {
+            "name": "' Director",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 91,
+            "isEveryone": false
+        },
+        {
+            "name": "' Monarch",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 90,
+            "isEveryone": false
+        },
+        {
+            "name": "Eàst HighStaff's.",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "1237156397056",
+            "mentionable": false,
+            "position": 89,
+            "isEveryone": false
+        },
+        {
+            "name": "Half Access",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 88,
+            "isEveryone": false
+        },
+        {
+            "name": "ــــــــــــــــــــــــــــــــــــــــــ",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 87,
+            "isEveryone": false
+        },
+        {
+            "name": "- Unleashed.",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 86,
+            "isEveryone": false
+        },
+        {
+            "name": "- Empress.",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 85,
+            "isEveryone": false
+        },
+        {
+            "name": "- Genesis.",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 84,
+            "isEveryone": false
+        },
+        {
+            "name": "- Velda.",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 83,
+            "isEveryone": false
+        },
+        {
+            "name": "- Assistant.",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 82,
+            "isEveryone": false
+        },
+        {
+            "name": "- Expert.",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 81,
+            "isEveryone": false
+        },
+        {
+            "name": "- Power.",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 80,
+            "isEveryone": false
+        },
+        {
+            "name": "- General.",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 79,
+            "isEveryone": false
+        },
+        {
+            "name": "- Destiny.",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 78,
+            "isEveryone": false
+        },
+        {
+            "name": "- Admin.",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 77,
+            "isEveryone": false
+        },
+        {
+            "name": "East Staff",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 76,
+            "isEveryone": false
+        },
+        {
+            "name": "ــــــــــــــــــــــــــــــــــــــــــ",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 75,
+            "isEveryone": false
+        },
+        {
+            "name": "⁖ Server Ship's",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 74,
+            "isEveryone": false
+        },
+        {
+            "name": "⁖ Server Founder's",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 73,
+            "isEveryone": false
+        },
+        {
+            "name": "⁖ Server Manager's",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 72,
+            "isEveryone": false
+        },
+        {
+            "name": "⁖ Server Developer's",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 71,
+            "isEveryone": false
+        },
+        {
+            "name": "⁖ Event's Manager's",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 70,
+            "isEveryone": false
+        },
+        {
+            "name": "⁖ Team Manager's",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 69,
+            "isEveryone": false
+        },
+        {
+            "name": "⁖ Owner's Manager's",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 68,
+            "isEveryone": false
+        },
+        {
+            "name": "∷ Owner's Team Manager's",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 67,
+            "isEveryone": false
+        },
+        {
+            "name": "⁖ Staff Manager's",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 66,
+            "isEveryone": false
+        },
+        {
+            "name": "∷ Staff Team Manager's",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 65,
+            "isEveryone": false
+        },
+        {
+            "name": "⁖ Support Manager's",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 64,
+            "isEveryone": false
+        },
+        {
+            "name": "∷ Support Team Manager's",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 63,
+            "isEveryone": false
+        },
+        {
+            "name": "⁖ Chat Manager's",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "133184",
+            "mentionable": false,
+            "position": 62,
+            "isEveryone": false
+        },
+        {
+            "name": "∷ Chat Team Manager's",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 61,
+            "isEveryone": false
+        },
+        {
+            "name": "⁖ Girl's Manager's",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 60,
+            "isEveryone": false
+        },
+        {
+            "name": "∷ Girl's Team Manager's",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 59,
+            "isEveryone": false
+        },
+        {
+            "name": "ــــــــــــــــــــــــــــــــــــــــــ",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 58,
+            "isEveryone": false
+        },
+        {
+            "name": "› Game bot settings.",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 57,
+            "isEveryone": false
+        },
+        {
+            "name": "› Blacklist Staff.",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 56,
+            "isEveryone": false
+        },
+        {
+            "name": "› Under control",
+            "color": "#ff0000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 55,
+            "isEveryone": false
+        },
+        {
+            "name": "› Support Blacklist .",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 54,
+            "isEveryone": false
+        },
+        {
+            "name": "Staff  Warn 3",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 53,
+            "isEveryone": false
+        },
+        {
+            "name": "Staff Warn 2",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 52,
+            "isEveryone": false
+        },
+        {
+            "name": "Staff  Warn 1",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 51,
+            "isEveryone": false
+        },
+        {
+            "name": "Support Warn 3",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 50,
+            "isEveryone": false
+        },
+        {
+            "name": "Support Warn 2",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 49,
+            "isEveryone": false
+        },
+        {
+            "name": "Support Warn 1",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 48,
+            "isEveryone": false
+        },
+        {
+            "name": "› Ticket Support.",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "2147483648",
+            "mentionable": false,
+            "position": 47,
+            "isEveryone": false
+        },
+        {
+            "name": "› Staff Rest.",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 46,
+            "isEveryone": false
+        },
+        {
+            "name": "› Log's Access.",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 45,
+            "isEveryone": false
+        },
+        {
+            "name": "› Command's Access.",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 44,
+            "isEveryone": false
+        },
+        {
+            "name": "ــــــــــــــــــــــــــــــــــــــــــ",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 43,
+            "isEveryone": false
+        },
+        {
+            "name": "1",
+            "color": "#050505",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 42,
+            "isEveryone": false
+        },
+        {
+            "name": "2",
+            "color": "#30dbf6",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 41,
+            "isEveryone": false
+        },
+        {
+            "name": "3",
+            "color": "#ffffff",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 40,
+            "isEveryone": false
+        },
+        {
+            "name": "4",
+            "color": "#41ec3b",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 39,
+            "isEveryone": false
+        },
+        {
+            "name": "5",
+            "color": "#9b59b6",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 38,
+            "isEveryone": false
+        },
+        {
+            "name": "6",
+            "color": "#f1c40f",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 37,
+            "isEveryone": false
+        },
+        {
+            "name": "ــــــــــــــــــــــــــــــــــــــــــ",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 36,
+            "isEveryone": false
+        },
+        {
+            "name": "✥ › Hypernova",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 35,
+            "isEveryone": false
+        },
+        {
+            "name": "❆ Oompa Loompa",
+            "color": "#52fff7",
+            "hoist": true,
+            "permissions": "64",
+            "mentionable": false,
+            "position": 34,
+            "isEveryone": false
+        },
+        {
+            "name": "✥ › Famous.",
+            "color": "#767daf",
+            "hoist": true,
+            "permissions": "32768",
+            "mentionable": false,
+            "position": 33,
+            "isEveryone": false
+        },
+        {
+            "name": "✥ › Vip.",
+            "color": "#767daf",
+            "hoist": true,
+            "permissions": "32768",
+            "mentionable": false,
+            "position": 32,
+            "isEveryone": false
+        },
+        {
+            "name": "✥ › Friends.",
+            "color": "#767daf",
+            "hoist": true,
+            "permissions": "32832",
+            "mentionable": false,
+            "position": 31,
+            "isEveryone": false
+        },
+        {
+            "name": "✥ › Ladies.",
+            "color": "#e2a4a4",
+            "hoist": true,
+            "permissions": "32832",
+            "mentionable": false,
+            "position": 30,
+            "isEveryone": false
+        },
+        {
+            "name": "✥ › East.",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "32768",
+            "mentionable": false,
+            "position": 29,
+            "isEveryone": false
+        },
+        {
+            "name": "ــــــــــــــــــــــــــــــــــــــــــ",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 28,
+            "isEveryone": false
+        },
+        {
+            "name": "vc.",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 27,
+            "isEveryone": false
+        },
+        {
+            "name": "js.",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 26,
+            "isEveryone": false
+        },
+        {
+            "name": "› Pic.",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "32768",
+            "mentionable": false,
+            "position": 25,
+            "isEveryone": false
+        },
+        {
+            "name": "› Nick.",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "67108864",
+            "mentionable": false,
+            "position": 24,
+            "isEveryone": false
+        },
+        {
+            "name": "East Event's.",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 23,
+            "isEveryone": false
+        },
+        {
+            "name": "› Video.",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "512",
+            "mentionable": false,
+            "position": 22,
+            "isEveryone": false
+        },
+        {
+            "name": "› Stream.",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "321607187825152",
+            "mentionable": false,
+            "position": 21,
+            "isEveryone": false
+        },
+        {
+            "name": "ــــــــــــــــــــــــــــــــــــــــــ",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 20,
+            "isEveryone": false
+        },
+        {
+            "name": "Prv Roles:",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 19,
+            "isEveryone": false
+        },
+        {
+            "name": "ــــــــــــــــــــــــــــــــــــــــــ",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 18,
+            "isEveryone": false
+        },
+        {
+            "name": "Zeta 1",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 17,
+            "isEveryone": false
+        },
+        {
+            "name": "Epsilon 5",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 16,
+            "isEveryone": false
+        },
+        {
+            "name": "Delta 15",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 15,
+            "isEveryone": false
+        },
+        {
+            "name": "Gamma 25",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 14,
+            "isEveryone": false
+        },
+        {
+            "name": "Beta 45",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 13,
+            "isEveryone": false
+        },
+        {
+            "name": "Alpha 60",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 12,
+            "isEveryone": false
+        },
+        {
+            "name": "ــــــــــــــــــــــــــــــــــــــــــ",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 11,
+            "isEveryone": false
+        },
+        {
+            "name": "ــــــــــــــــــــــــــــــــــــــــــ",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 10,
+            "isEveryone": false
+        },
+        {
+            "name": "Black list",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 9,
+            "isEveryone": false
+        },
+        {
+            "name": "Muted",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 8,
+            "isEveryone": false
+        },
+        {
+            "name": "muted",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 7,
+            "isEveryone": false
+        },
+        {
+            "name": "bc.",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 6,
+            "isEveryone": false
+        },
+        {
+            "name": "ــــــــــــــــــــــــــــــــــــــــــ",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 5,
+            "isEveryone": false
+        },
+        {
+            "name": "Lol",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 4,
+            "isEveryone": false
+        },
+        {
+            "name": "نجمه",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 3,
+            "isEveryone": false
+        },
+        {
+            "name": "لا تعطيه رول",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 2,
+            "isEveryone": false
+        },
+        {
+            "name": "antispam",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 1,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "1377275789806593",
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "createdTimestamp": 1731440117951,
+    "guildID": "1303617818633306122",
+    "id": "1305979253480882176",
+    "iconURL": "https://cdn.discordapp.com/icons/1303617818633306122/b651b4a4a8ef64aa44eb227f29bf45ab.webp"
+}
