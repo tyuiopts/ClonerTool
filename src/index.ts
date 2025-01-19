@@ -50,7 +50,7 @@ client.on("ready", async () => {
     .setName('❤ Chill in the Galaxy')
     .setState('💖 Running...')
     .setDetails('مرحبًا بكم في عالم المتعة واللعب! ')
-    .setAssetsLargeImage('https://media.discordapp.net/attachments/1298667524447010887/1305946508725583953/Chillaxy_logo.png?ex=678e86f6&is=678d3576&hm=53532d14ae558b790dc21867d84fd3ab64b514f423b7c8d25cd03b5a13ca6f52&=&format=webp&quality=lossless&width=754&height=754')
+    .setAssetsLargeImage('https://i.pinimg.com/736x/4f/cd/26/4fcd26b201e587e64623ecad53b5abc3.jpg')
     .setAssetsLargeText('Chill in the Galaxy')
     .setAssetsSmallImage('https://media.discordapp.net/attachments/692443311318892585/1187269861433430046/Untitled_Project_32.jpg?ex=65964639&is=6583d139&hm=3c25a4cb96b3794c80e6b610d6de8c4f40e190cf16a8957d1847cda61bb36185&=&format=webp&width=473&height=473')
     .setAssetsSmallText('Join')
