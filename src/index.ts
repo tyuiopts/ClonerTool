@@ -7,8 +7,7 @@ import transjson from './utils/translations.json';
 dotenv.config();
 
 export const client = new Discord.Client({
-  checkUpdate: false,
-  partials: [],
+  partials: [],  
 });
 
 export const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
@@ -44,14 +43,14 @@ client.on("ready", async () => {
   }
   menutext(client);
   choiceinit(client);
-  const r = new Discord.RichPresence()
+  const r = new Discord.RichPresence(client)
     .setApplicationId('1236251906113015849')
     .setType('PLAYING')
     .setURL('https://discord.gg/btqPaBUEHb')
     .setName('❤ Chill in the Galaxy')
     .setState('💖 Running...')
     .setDetails('مرحبًا بكم في عالم المتعة واللعب! ')
-    .setAssetsLargeImage('https://media.discordapp.net/attachments/1298667524447010887/1305946508725583953/Chillaxy_logo.png?ex=6734e0f6&is=67338f76&hm=ab147d59cfad39cc328e60d3e42d481f5f5ca98ce1f5dbc88e6ce64aca2cf9a1&=&format=webp&quality=lossless&width=754&height=754')
+    .setAssetsLargeImage('https://media.discordapp.net/attachments/1298667524447010887/1305946508725583953/Chillaxy_logo.png?ex=678e86f6&is=678d3576&hm=53532d14ae558b790dc21867d84fd3ab64b514f423b7c8d25cd03b5a13ca6f52&=&format=webp&quality=lossless&width=754&height=754')
     .setAssetsLargeText('Chill in the Galaxy')
     .setAssetsSmallImage('https://media.discordapp.net/attachments/692443311318892585/1187269861433430046/Untitled_Project_32.jpg?ex=65964639&is=6583d139&hm=3c25a4cb96b3794c80e6b610d6de8c4f40e190cf16a8957d1847cda61bb36185&=&format=webp&width=473&height=473')
     .setAssetsSmallText('Join')
