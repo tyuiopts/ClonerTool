@@ -6,29 +6,16 @@
 
 **More information:** [My Server](https://discord.gg/btqPaBUEHb)
 
-## طريقة الاستعمال
-```typescript
-$ pnpm i
-# or
-$ npm i
-# or
-$ yarn add
-```
-**Examples with tsx**
-```typescript
-$ pnpm i -g tsx
-# or
-$ npm i -g tsx
-```
-
-```typescript
-$ tsx .
-```
-**or Download Node.js**
+## طريقة الاستعمال 
+**Download Node.js**
 [Node.js](https://nodejs.org/en)
 ----
 
-![image](https://media.discordapp.net/attachments/1298667554172305540/1305988733148991569/Moundo.png?ex=6735084a&is=6733b6ca&hm=f6900bd814524e3cf05cd46e8aa7afe316874ae2825b16621e99060982168c41&=&format=webp&quality=lossless)
+**ثم قم بفك الضغط ثم افتح الملف واضغط علي شريط العنوان فوق وامسح الكلام ثم اكتب cmd بعدين تكتب هذا الأمر**
+```
+npm install discord.js-selfbot-v13@latest
+```
+![image](https://media.discordapp.net/attachments/1298667524447010887/1331699797740224542/Mweew.png?ex=67929195&is=67914015&hm=16504df626cca69f4c5986742204cd13d07e8ff925f45331174f2a7fa7bc2105&=&format=webp&quality=lossless)
 
 
 
